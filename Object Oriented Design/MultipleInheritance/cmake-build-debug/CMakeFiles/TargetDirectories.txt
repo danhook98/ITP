@@ -1,0 +1,3 @@
+P:/repos/Uni/C++ Projects/ITP/Object Oriented Design/MultipleInheritance/cmake-build-debug/CMakeFiles/MultipleInheritance.dir
+P:/repos/Uni/C++ Projects/ITP/Object Oriented Design/MultipleInheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/repos/Uni/C++ Projects/ITP/Object Oriented Design/MultipleInheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
